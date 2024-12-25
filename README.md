@@ -46,3 +46,20 @@ I got a meterpreter session and the cmd windows closed automatically
 
 
 ![image](https://github.com/user-attachments/assets/5c7b8afa-4731-44b1-a31b-41b851ac5eb7)
+
+
+
+
+
+
+Here is the virustotal analysis on the malware
+
+
+![image](https://github.com/user-attachments/assets/0cc38c8d-32ab-48f0-b5ef-1c62f6c1a345)
+
+
+
+
+
+
+
