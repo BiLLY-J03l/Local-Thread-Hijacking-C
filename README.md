@@ -14,6 +14,8 @@ Local Thread Hijacking with C
 
 -Then it resumes the thread to execute the shellcode.
 
+![image](https://github.com/user-attachments/assets/9767a07f-3d51-4d10-9f8f-8456a687b4c2)
+
 
 ![image](https://github.com/user-attachments/assets/330f5487-617a-4f59-b4fe-df122c6952d4)
 
@@ -21,7 +23,7 @@ Local Thread Hijacking with C
 ![image](https://github.com/user-attachments/assets/ec92c5d0-af9c-4fcc-9546-5c09c6f8c019)
 
 
-![image](https://github.com/user-attachments/assets/9767a07f-3d51-4d10-9f8f-8456a687b4c2)
+
 
 
 EXECUTION:
