@@ -48,7 +48,7 @@ int main(){
 		};
 		
 	char key= 'BING';
-	char msg[]= "HELLO";
+	
 	for(int i=0; i<sizeof(shellcode); i++){
 		
 		printf("\\x%02x",shellcode[i]^key);
